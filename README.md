@@ -2,7 +2,7 @@
 
 Coryn Bailer-Jones, MPIA Heidelberg (https://mpia.de/homes/calj)
 
-The PDF file astrostats_2017_ESAC.pdf contains the slides from the lecture, covering and overview of Gaia, GDR1, and most of the background theory to the statistics. 
+The PDF file astrostats_2017_ESAC.pdf contains the slides from the lecture, covering a quick overview of Gaia astrometry, GDR1, and the background theory on distance inference, as used in the notebooks. 
 
 There are three python notebooks with exercises which illustrate the statistical methods covered in the lectures.
 In your root directory put the notebooks (*.ipynb) into a directory called "notebook/", the R codes (*.R) into a directory called "Rcode/", and the data (*.csv) in a directory called "data/". The root directory is then defined in the first line of each notebook.
